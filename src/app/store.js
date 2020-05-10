@@ -1,8 +1,8 @@
 import { configureStore } from '@reduxjs/toolkit';
-import counterReducer from '../features/counter/counterSlice';
+import kiyoshiSlice from '../features/kiyoshi/kiyoshiSlice';
 
 export default configureStore({
   reducer: {
-    counter: counterReducer,
+    kiyoshi: kiyoshiSlice,
   },
 });
