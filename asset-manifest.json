@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zundoko-check-2020/static/css/main.69eda509.chunk.css",
+    "main.js": "/zundoko-check-2020/static/js/main.04714abe.chunk.js",
+    "main.js.map": "/zundoko-check-2020/static/js/main.04714abe.chunk.js.map",
+    "runtime-main.js": "/zundoko-check-2020/static/js/runtime-main.ed266b31.js",
+    "runtime-main.js.map": "/zundoko-check-2020/static/js/runtime-main.ed266b31.js.map",
+    "static/js/2.00e2a329.chunk.js": "/zundoko-check-2020/static/js/2.00e2a329.chunk.js",
+    "static/js/2.00e2a329.chunk.js.map": "/zundoko-check-2020/static/js/2.00e2a329.chunk.js.map",
+    "index.html": "/zundoko-check-2020/index.html",
+    "precache-manifest.b939720e6efbcb837ccf1385c8f6ae0f.js": "/zundoko-check-2020/precache-manifest.b939720e6efbcb837ccf1385c8f6ae0f.js",
+    "service-worker.js": "/zundoko-check-2020/service-worker.js",
+    "static/css/main.69eda509.chunk.css.map": "/zundoko-check-2020/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.00e2a329.chunk.js.LICENSE.txt": "/zundoko-check-2020/static/js/2.00e2a329.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed266b31.js",
+    "static/js/2.00e2a329.chunk.js",
+    "static/css/main.69eda509.chunk.css",
+    "static/js/main.04714abe.chunk.js"
+  ]
+}
