@@ -9,10 +9,10 @@ import {
 export function Kiyoshi() {
   const river = useSelector(selectRiver);
   const dispatch = useDispatch();
+  const success = ['ズン', 'ズン', 'ズン', 'ズン', 'ドコ'].toString();
 
   useEffect(() => {
     const check = river.slice(-5).toString();
-    const success = ['ズン', 'ズン', 'ズン', 'ズン', 'ドコ'].toString();
 
     if (check === success) {
       dispatch(stop());
@@ -20,7 +20,7 @@ export function Kiyoshi() {
     }
 
     dispatch(singsong());
-  }, [river, dispatch]);
+  }, [river, success, dispatch]);
 
   return (
     <div>
