@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/zundoko-check-2020/precache-manifest.b939720e6efbcb837ccf1385c8f6ae0f.js"
+  "/zundoko-check-2020/precache-manifest.71baaba6a8025fe77716bc5d3c113d14.js"
 );
 
 self.addEventListener('message', (event) => {

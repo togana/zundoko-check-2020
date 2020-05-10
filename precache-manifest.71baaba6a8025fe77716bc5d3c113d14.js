@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "60fab4b70aa23b746764b17d2be69193",
+    "revision": "d0c54aef2e8e5064d25f95fb6fdb02ff",
     "url": "/zundoko-check-2020/index.html"
   },
   {
-    "revision": "59c77542199fdfa0c034",
+    "revision": "922380f4171109847eaa",
     "url": "/zundoko-check-2020/static/css/main.69eda509.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zundoko-check-2020/static/js/2.00e2a329.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "59c77542199fdfa0c034",
-    "url": "/zundoko-check-2020/static/js/main.04714abe.chunk.js"
+    "revision": "922380f4171109847eaa",
+    "url": "/zundoko-check-2020/static/js/main.732ce147.chunk.js"
   },
   {
     "revision": "4aa3fcf56d1234311a0f",
